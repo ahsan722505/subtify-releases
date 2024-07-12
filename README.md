@@ -2,5 +2,6 @@ This repo contains the releases for subtify app. subtify is a desktop applicatio
 
 Download latest releases from our website: [subtify](https://subtify.lol)
 
-![image](https://github.com/ahsan722505/subtify-releases/assets/79001785/9888fadc-cc45-413a-a8fc-db916f816a3b)
+![image](https://github.com/user-attachments/assets/5314ddf8-d2ff-46c0-b020-bab79053a5d6)
+
 
