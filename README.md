@@ -1,4 +1,4 @@
-This repo contains the releases for subtify app. subtify is a desktop application to create audio/video subtitles with AI. The app also contains an editor to edit and style subtitles. The app is currently compatible with x64 architectures of windows and linux. Mac release coming soon!
+This repo contains the releases for subtify desktop app. subtify is a desktop application to create audio/video subtitles with AI. The app also contains an editor to edit and style subtitles. The app is currently compatible with x64 architectures of windows and linux. Mac release coming soon!
 
 Download latest releases from our website: [subtify](https://subtify.lol)
 
